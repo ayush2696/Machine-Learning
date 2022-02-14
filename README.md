@@ -28,6 +28,7 @@ Repository containing portfolio of data science projects completed by me  self l
   [Clustering on Graph Dataset](https://github.com/ayush2696/Machine-Learning/blob/main/Unsupervised%20Learning/Clustering%20on%20Graph%20Dataset.ipynb) : In this notebook we perform clustering on actor-movie dataset. We consider two cost functions and then after applying clustering on different values of hyperparater we select the one with the highest cost. After which we visualise the clustered movie and actor using TSNE.
   
   [Recommendation Systems and Truncated SVD SGD algorithm to predict ratings](https://github.com/ayush2696/Machine-Learning/blob/main/Unsupervised%20Learning/Recommendation%20Systems%20and%20Truncated%20SVD%20SGD%20algorithm%20to%20predict%20ratings.ipynb) : In this notebook we perform predict the rating of the movie given a user and movie. First create a adjacency matrix on User-Movie upon which  we used SVD(Single Value Decomposition) to create a dataset. The parameters of Loss Function are found using SGD(Stocastic Gradient Descent) and then we make the final predictions.
+  
    _**Tools:**_ scikit-learn, Pandas,numpy, Seaborn, Matplotlib
   
 ## Deep-Learning
@@ -54,6 +55,7 @@ Repository containing portfolio of data science projects completed by me  self l
    [Transfer Learning](https://github.com/ayush2696/Machine-Learning/blob/main/Deep%20Learning/General%20Implementations/Transfer%20Learning.ipynb) : In this notebook we implement transfer learning on image dataset where we classify image labels using VGG-16 network. We try to implement different models with different last blocks and see how our accuracy metric gets affected.
    
    [Dense Net on CIFAR](https://github.com/ayush2696/Machine-Learning/blob/main/Deep%20Learning/Computer%20Vision/Dense%20Net%20on%20CIFAR.ipynb) : In this assignment we apply Dense Net on CIFAR dataset. We create a ImageGenerator to generate and augment images and then we train Dense Net to predict the class labels.
+   
 **Tools**: Pandas,numpy,tensorflow,keras Seaborn, Matplotlib
   
 ## Data Analysis and Visualisation
